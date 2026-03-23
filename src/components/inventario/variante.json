@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_inventario_variantes",
+  "info": {
+    "displayName": "Variante"
+  },
+  "options": {},
+  "attributes": {
+    "Talla": {
+      "type": "enumeration",
+      "enum": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    "Stock": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}
